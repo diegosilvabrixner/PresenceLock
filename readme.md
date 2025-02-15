@@ -44,10 +44,9 @@ Atualmente, a aplicação apenas fecha o próprio programa, permanecendo ativa p
 E também pela microsoft store caso esteja usando o windows.
 ![imagem do instalador do python pela microsoft store.]({F61BE7D3-0F81-4A0E-BEF9-C58790C7D94B}.png)
 
-## 2. Baixar o repositório no GitHub.
-Basta clicar no botão verde escrito <>Code e depois ir em download ZIP.
-![imagem do meu repositório no Github]({83C74CB4-D73A-482D-AA90-2F6D79A79B3D}.png)
-
+## 2. Baixar o repositório pelo google drive.
+Basta acessar o seguinte link "https://drive.google.com/drive/folders/1m-CdV3m2c9pOaAOKhxmu5KZpN_E6AmeA?usp=sharing" e fazer dowload de todos os arquivos do projeto.
+![imagem do meu repositório no Google drive]({1CB9C88A-4478-47FB-BCDB-BF317F4D87CF}.png)
 ## 3. Abrir os arquivos no VS Code e instalar as bibliotecas necessárias.  
 No terminal do VS Code, cole os seguintes comandos, um por vez:
 * "pip install opencv-python numpy"  
